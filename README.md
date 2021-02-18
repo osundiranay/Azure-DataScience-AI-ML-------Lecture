@@ -20,4 +20,7 @@ Python code for implementing various AI projects using Microsoft Azure Cognitive
 3. Text analysis.
 4. Language translation
 
-Reference: https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-overview
+
+**Important**: This repository is a collection of Python code from the learning paths' notebooks to prepare for the Microsoft AI-900 exam (_not my personal work_). Although I passed the exam, I still want to save these code here so that I can refer quickly to them when I do AI projects on Azure.
+
+For detailed information on how to implement the code, check out this reference: https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-overview
