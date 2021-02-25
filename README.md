@@ -1,6 +1,7 @@
 # Python-code-for-Azure-ML
 
 Python code for implementing various AI projects using Microsoft Azure Cognitive Services.
+A Microsoft Azure subscription is required since you will need a authorization key and an endpoint to deploy a model using these code.
 
 ## Services:
 
