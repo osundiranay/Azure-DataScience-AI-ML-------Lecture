@@ -5,6 +5,8 @@ A Microsoft Azure subscription is required since you will need a authorization k
 
 ### I. Azure Machine Learning:
 1. Deploy a predictive service.
+2. Regression.
+3. Classification
 
 ### II. Custom Vision:
 1. Face detection.
