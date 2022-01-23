@@ -1,4 +1,4 @@
-# Python Code for Data Science, AI, ML on Microsoft Azure 
+# Python Codes for Data Science, AI, ML on Microsoft Azure 
 
 Python code for implementing various AI, ML projects on Microsoft Azure could platform.
 A Microsoft Azure subscription is required since you will need a authorization key and an endpoint to deploy a model using these code.
